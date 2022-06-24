@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ngartiexauce
 - 👀 I’m interested in Machine Learning, Data Visualisation and Maths
-- 🌱 I’m currently learning neural networks, random forests, clustering,...
-- 💞️ I’m looking for a data science intern
+- 🌱 I’m a Machine Learning Intern Researcher
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ngartiexauce)
 
 <!---
