@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngartiexauce
-- 👀 I’m interested in Machine Learning, Data Visualisation and Maths
+- 👀 I’m interested in Machine Learning, Physics and Maths
 - 🌱 I’m a Machine Learning Junior Researcher
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ngartiexauce), My personal [page](https://ngartiexauce.github.io/).
 
