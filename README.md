@@ -1,4 +1,4 @@
-<img src="https://github.com/Rongtingting/Rongtingting/blob/main/images/SassonRoad5.jpg?raw=true"></img><table><tr>
+<img src="https://github.com/ngartiexauce/ngartiexauce/blob/main/IMG-0357.JPG"></img><table><tr>
 
 ![](https://github-readme-stats.vercel.app/api?username=ngartiexauce&theme=dark
 
