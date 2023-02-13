@@ -1,3 +1,8 @@
+<img src="https://github.com/Rongtingting/Rongtingting/blob/main/images/SassonRoad5.jpg?raw=true"></img><table><tr>
+
+![](https://github-readme-stats.vercel.app/api?username=ngartiexauce&theme=dark
+
+
 - 👋 Hi, I’m @ngartiexauce
 - 👀 I’m interested in Machine Learning, Physics and Maths
 - 🌱 I’m a Machine Learning Junior Researcher
