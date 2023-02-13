@@ -1,4 +1,4 @@
-<img src="https://github.com/ngartiexauce/ngartiexauce/blob/main/IMG-0357.JPG"></img><table><tr>
+<img src="https://github.com/ngartiexauce/ngartiexauce/blob/main/IMG-0357.JPG" height="200"></img><table><tr>
 
 ![](https://github-readme-stats.vercel.app/api?username=ngartiexauce&theme=dark
 
