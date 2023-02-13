@@ -1,6 +1,4 @@
-<img src="https://github.com/ngartiexauce/ngartiexauce/blob/main/IMG-0357.JPG"  width="800" height="250"></img><table><tr>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngartiexauce)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/ngartiexauce/ngartiexauce/blob/main/IMG-0357.JPG"  width="800" height="250"></img><table><tr> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngartiexauce)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @ngartiexauce
 - 👀 I’m interested in Machine Learning, Physics and Maths
