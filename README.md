@@ -1,6 +1,5 @@
-<img src="https://github.com/ngartiexauce/ngartiexauce/blob/main/IMG-0357.JPG"  width="600" height="200"></img><table><tr>
+<img src="https://github.com/ngartiexauce/ngartiexauce/blob/main/IMG-0357.JPG"  width="800" height="250"></img><table><tr>
 
-![](https://github-readme-stats.vercel.app/api?username=ngartiexauce&theme=dark
 
 
 - 👋 Hi, I’m @ngartiexauce
